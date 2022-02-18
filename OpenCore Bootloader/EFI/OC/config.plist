@@ -88,13 +88,7 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL00,override-no-connect</key>
-				<data>AP///////wAGEBSgAAAAAAoWAQSQHRJ45m+xp1VMniUMUFQAAAABAQEBAQEBAQEBAQEBAQEBkYqABHE4MkAwIDUAWMIQAAAaAAAA/ABDb2xvciBMQ0QKICAgAAAA/QA4TB5TEQAKICAgICAgAAAA/QA4TB5TEQAKICAgICAgAH4=</data>
-			</dict>
-		</dict>
+		<dict/>
 		<key>Delete</key>
 		<dict/>
 	</dict>
